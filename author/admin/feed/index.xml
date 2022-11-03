@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.3</generator>
+	<generator>https://wordpress.org/?v=6.1</generator>
 
 <image>
 	<url>https://ihsansq.github.io/company_profile/wp-content/uploads/2022/11/favicon.png</url>
@@ -29,8 +29,8 @@
 </image> 
 	<item>
 		<title>Company Profile</title>
-		<link>https://ihsansq.github.io/company_profile/2022/10/21/halo-dunia/</link>
-					<comments>https://ihsansq.github.io/company_profile/2022/10/21/halo-dunia/#comments</comments>
+		<link>https://ihsansq.github.io/company_profile/halo-dunia/</link>
+					<comments>https://ihsansq.github.io/company_profile/halo-dunia/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Fri, 21 Oct 2022 12:16:07 +0000</pubDate>
@@ -54,7 +54,7 @@
 <p></p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://ihsansq.github.io/company_profile/2022/10/21/halo-dunia/feed/</wfw:commentRss>
+					<wfw:commentRss>https://ihsansq.github.io/company_profile/halo-dunia/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
